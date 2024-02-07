@@ -1,27 +1,28 @@
-GroundStudio
+GroundStudio microSD module 
 ====================================
+![microSD module REV0 2](https://github.com/GroundStudio/GroundStudio_MicroSD_module/assets/77836107/d5626d30-d906-4744-b182-bd1cdd23237f)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/2514-modul-microsd-groundstudio.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-Short description of the board.
+MicroSD adapter module that can be used to connect a microSD card to your project.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
-* [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_MicroSD_module/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/GroundStudio_MicroSD_module/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_MicroSD_module/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/GroundStudio_MicroSD_module/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
+* [/Tools](https://github.com/GroundStudio/GroundStudio_MicroSD_module/tree/main) -- Tools needed for compiling, uploading bootloader, etc.
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [V0.0.1] Initial version
+* [V0.2] Initial version
 
 License
 -------------------
