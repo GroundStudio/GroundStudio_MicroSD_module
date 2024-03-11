@@ -31,3 +31,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000013.html)   
+   
+[![certification-mark-RO000013-wide](https://github.com/GroundStudio/GroundStudio_MicroSD_module/assets/77836107/0111a948-396b-4ddf-aa3f-d1ec3dce62a7)
+](https://certification.oshwa.org/ro000013.html)
+
